@@ -1,2 +1,13 @@
 @charset "utf-8";
 /* CSS Document */
+h1{
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:1.5em;
+	color:#4F2FF1;
+	margin-bottom:1em;
+}
+
+.results{
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	line-height:1.5;
+}
